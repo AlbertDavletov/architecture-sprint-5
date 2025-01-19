@@ -277,6 +277,7 @@ dist
 **/*.back.*
 
 node_modules
+rasa_env
 
 *.sublime*
 
